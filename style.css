@@ -58,6 +58,29 @@ body {
     border-color: #bf3c6c;
 }
 
+.modal-content {
+    background-color: #312F2F; 
+    color: #9C9990;
+}
+
+.modal-header, .modal-body, .modal-footer {
+    border-color: #9C9990;
+}
+
+.modal-title {
+    color: #DE4D86; 
+}
+
+.modal .btn-primary {
+    background-color: #DE4D86;
+    border-color: #DE4D86;
+}
+
+.modal .btn-primary:hover {
+    background-color: #bf3c6c; 
+    border-color: #bf3c6c;
+}
+
 .footer {
     background-color: #212529;
     color: #adb5bd;
